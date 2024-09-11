@@ -1,7 +1,14 @@
 
 # Prime Numbers Labs
 
-Prime Numbers Labs is a truly rewarding DeFi ecosystem that combines Prime Finance's lending and borrowing protocol and PrimePort NFT Marketplace with the Prime Numbers NFT Staking System.
-Prime Numbers Labs is responsible for creating a multitude of thriving ecosystems. The first is the Prime Numbers XDC Ecosystem, our birthplace and the stepping stone to becoming the entity we are today. Now Prime Numbers Labs is expanding to more EVM blockchains, like Ethereum.
+At Prime Numbers Labs, our mission is to democratize decentralized finance by making it simple, secure, and accessible to all.
+
+
+
+We tackle the biggest challenges in DeFi —complexity, regulation, and unfair profit distribution— by offering an all-in-one platform for lending, borrowing, staking, and NFTs.
+
+
+
+Our profit-sharing model rewards user participation, rooted in transparency and community. We are committed to operating within a regulated framework, ensuring security and trust, while creating a movement for financial empowerment that invites everyone to thrive.
 
 https://docs.primenumbers.xyz/
