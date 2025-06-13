@@ -18,7 +18,7 @@ Our goals:
 
 | Product | What it does | Key highlights |
 |---------|--------------|----------------|
-| **PrimeFi** | **Omnichain lending & borrowing** protocol | • Cross-chain collateral/loan separation  <br>• Runs on Hyperliquid, Arbitrum, Base & BNB (more coming) <br>• PRFI liquidity-mining & NFT reward integration |
+| **PrimeFi** | **Omnichain lending & borrowing** protocol | • Cross-chain collateral/loan separation  <br>• Runs on Hyperliquid, Arbitrum, Base... (more coming) <br>• PRFI liquidity-mining & NFT reward integration |
 | **PrimeStaking** | **Staking & Liquid-Staking hub** | • PRFI staking with NFT boosters <br>• The first liquid-staking derivative for **XDC** ($psXDC) <br>• Masternode vaults for large XDC holders |
 | **PrimePort** | **Multichain NFT marketplace** | • First & largest NFT market on XDC <br>• Omnichain listings via LayerZero OFT <br>• NFT staking rewards that tie into PrimeFi & PrimeStaking |
 
